@@ -1,4 +1,22 @@
+git password
+Troybflying
+"Meowmeow@123Abhi"
+
+
+
+
 git --version
+
 git status
-git init    # to initalize a repository
- 
+
+git init                    # to initalize a repository
+
+git add .                   # for staging all the files
+
+git commit -m "Version 1"   # for committing files
+
+git log                     # to check the changes made
+
+git config --global user name.name"Abhi"
+                                                 # to change the name and the email
+git config --global user name.email"meow@email"  
