@@ -1,0 +1,4 @@
+git --version
+git status
+git init    # to initalize a repository
+ 
